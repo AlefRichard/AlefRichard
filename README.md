@@ -7,8 +7,17 @@
 
 <div align="center">
   <a href="https://github.com/AlefRichard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefRichard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefRichard&layout=compact&langs_count=7&theme=dark"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AlefRichard&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlefRichard&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlefRichard&show_icons=true" />
+  </picture>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
