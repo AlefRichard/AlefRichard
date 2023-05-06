@@ -1,7 +1,7 @@
 ### Olá! Sou o Alef Richard 👋
 
-- 🔭 Atualmente trabalhando como Product Manager
-- 🌱 Estudando Nuxt JS e Python
+- 🔭 Software Engeneering Manager
+- 🌱 Estudying React JS and Nuxt JS 
 
 ##
 
