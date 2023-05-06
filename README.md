@@ -1,4 +1,4 @@
-### Olá! Sou o Alef Richard 👋
+### Hi, I sometimes drop by here with random studies :P 👋
 
 - 🔭 Software Engeneering Manager
 - 🌱 Estudying React JS and Nuxt JS 
