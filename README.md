@@ -1,4 +1,13 @@
-### Hi, I sometimes drop by here with random studies :P 👋
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/WkbDr7h/octocat-1695253541992.png">
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Alef Richard</h1>
+
+### Hello, I drop by here occasionally for some casual studies and perhaps a bit of knowledge! 👋
 
 - 🔭 Software Engeneering Manager
 - 🌱 Estudying React JS and Nuxt JS 
