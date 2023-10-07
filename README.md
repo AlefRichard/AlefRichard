@@ -10,7 +10,7 @@
 ### Hello, I drop by here occasionally for some casual studies and perhaps a bit of knowledge! 👋
 
 - 🔭 Software Engeneering Manager
-- 🌱 Estudying React JS and Nuxt JS 
+- 🌱 Estudying C#, JAVA (Spring) and Kotlin 
 
 ##
 
